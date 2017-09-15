@@ -1,2 +1,2 @@
-# searchview_demo_ios
+# Search View Demo
 Show cases list filtering
